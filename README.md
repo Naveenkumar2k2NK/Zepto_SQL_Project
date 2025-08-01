@@ -26,7 +26,7 @@
 
 |--------------------------|-------------------------------------------------------------------|
 
-| `Zepto\_SQL\_Project.sql`  | Complete SQL queries used for exploration, cleaning, and insights |
+| `Zepto\_SQL\_Project.sql`| Complete SQL queries used for exploration, cleaning, and insights |
 
 
 

@@ -22,11 +22,8 @@
 
 
 
-|        File Name         |                          Description                              |
-
-|--------------------------|-------------------------------------------------------------------|
-
-| `Zepto\_SQL\_Project.sql`| Complete SQL queries used for exploration, cleaning, and insights |
+File Name: `Zepto\_SQL\_Project.sql`
+Description: Complete SQL queries used for exploration, cleaning, and insights 
 
 
 

@@ -23,7 +23,7 @@
 
 
 File Name: `Zepto\_SQL\_Project.sql`
-Description: Complete SQL queries used for exploration, cleaning, and insights 
+\Description: Complete SQL queries used for exploration, cleaning, and insights 
 
 
 

@@ -1,4 +1,4 @@
-##### *Zepto SQL Data Analytics Project*
+# *Zepto SQL Data Analytics Project*
 
 
 
@@ -6,7 +6,7 @@
 
 
 
-##### *Tools Used*
+## *Tools Used*
 
 
 
@@ -26,7 +26,7 @@ File Name: `Zepto\_SQL\_Project.sql` | Description: Complete SQL queries used fo
 
 
 
-##### **Project Highlights**
+## **Project Highlights**
 
 
 
@@ -70,7 +70,7 @@ Grouped products into `Low`, `Medium`, and `Bulk` based on weight.
 
 
 
-📊 **Output Sample** (Queries included)
+## **Output Sample** (Queries included)
 
 \- Total Inventory Weight by Category
 
@@ -82,7 +82,7 @@ Grouped products into `Low`, `Medium`, and `Bulk` based on weight.
 
 
 
-###### How to Use
+## How to Use
 
 
 
@@ -94,11 +94,12 @@ Grouped products into `Low`, `Medium`, and `Bulk` based on weight.
 
 
 
-###### Author
+## Author
 
 
 
 **Naveen Kumar**  
 
 \[[linkedin.com/in/naveen-kumar-ababa7326](https://www.linkedin.com/in/naveen-kumar-ababa7326)]
+
 
